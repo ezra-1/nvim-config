@@ -1,3 +1,3 @@
-<h1 align="center"> My neovim config</h1>
-
-## Information
+<div align="center">
+    <h1> My config </h1>
+</div>

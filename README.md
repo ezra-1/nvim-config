@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot" src="https://github.com/ezra-1/nvim-assets/blob/main/ShoT_2024-05-24-10-59-10_1280x800.png">
+<img width="1440" alt="Screenshot" src="https://drive.google.com/file/d/131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ/view?usp=drive_link">
 
 <h1 align="center"> My config </h1>
 

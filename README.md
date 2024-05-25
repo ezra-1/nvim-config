@@ -16,9 +16,11 @@ nvim --headless +"Lazy! sync" +qa
 
 - [Nerd Fonts][NerdFonts] Nerd Fonts is require if you want to display icons
 
+- [Neovim 0.9.5+][Neovim] (not including nightly)
      #### optional
-      - [Neovide][Neovide] Neovide is optional be but will look a bit different from the preview above
+      [Neovide][Neovide] Neovide is optional be but will look a bit different from the preview above
 
 [Neovim]: https://github.com/neovim/neovim
 [NerdFonts]: https://www.nerdfonts.com/font-downloads
 [Neovide]: https://neovide.dev
+[Neoim]: https://github.com/neovim

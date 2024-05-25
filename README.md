@@ -20,4 +20,4 @@ nvim --headless +"Lazy! sync" +qa
 
 [Neovim]: https://github.com/neovim/neovim
 [NerdFonts]: https://www.nerdfonts.com/font-downloads
-[Neovide]: https://www.neovide.dev
+[Neovide]: https://neovide.dev

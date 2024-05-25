@@ -25,7 +25,7 @@ nvim
 
 
 ## optional
-[Neovide][Neovide] is optional be but will look a bit different from the preview above
+[Neovide][Neovide] is optional but will look a bit different from the preview above
 
 [Neovim]: https://github.com/neovim/neovim
 [NerdFonts]: https://www.nerdfonts.com/font-downloads

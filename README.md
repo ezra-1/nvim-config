@@ -1,5 +1,4 @@
-<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ
-">
+<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ">
 
 <h1 align="center"> My config </h1>
 

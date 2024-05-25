@@ -21,7 +21,7 @@ nvim
 
 - [Pyvim][Pyvim] for python support
 
-- [Ripgrep][Rigrep] needed for telescope to work
+- [Ripgrep][Ripgrep] needed for telescope to work
 
 
 ## optional

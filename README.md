@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot" src="./assets/ShoT_2024-05-24-10-59-10_1280x800.png">
+<img width="1440" alt="Screenshot" src="https://github.com/ezra-1/Wallpaper/blob/main/10811%202.jpg">
 
 <h1 align="center"> My config </h1>
 

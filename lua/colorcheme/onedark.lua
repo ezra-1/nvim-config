@@ -9,7 +9,6 @@ function M.config()
   require('onedark').setup {
     style = 'deep'
   }
-  require('onedark').load()
 end
 
 return M

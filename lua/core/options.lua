@@ -51,7 +51,6 @@ vim.opt.shortmess:append "c"
 
 vim.opt.laststatus = 0
 vim.opt.showtabline = 0
-vim.opt.shortmess=F
 
 vim.cmd "set whichwrap+=<,>,[,],h,l"
 vim.cmd [[set iskeyword+=-]]

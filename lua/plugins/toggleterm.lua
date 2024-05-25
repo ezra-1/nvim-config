@@ -4,6 +4,11 @@ local M = {
 }
 
 function M.config()
+  local wk = require "which-key"
+  wk.register {
+    ["<leader>;"] = { "<cmd>ToggleTerm<CR>", "Term" },
+  }
+
   local execs = {
     { nil, "<M-1>", "Horizontal Terminal", "horizontal", 0.3 },
     { nil, "<M-2>", "Vertical Terminal", "vertical", 0.4 },
@@ -26,7 +31,7 @@ function M.config()
     if direction ~= "float" and tostring(size):find(".", 1, true) then
       size = math.min(size, 1.0)
       local buf_sizes = get_buf_size()
-      local buf_size = direction == "horizontal" and buf_sizes.height or buf_sizes.width
+      local buf_size = direction == "float" and buf_sizes.height or buf_sizes.width
       return buf_size * size
     else
       return size

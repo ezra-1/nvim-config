@@ -1,9 +1,9 @@
-
 --   ┓┏•
 -- ┏┓┃┃┓┏┳┓
 -- ┛┗┗┛┗┛┗┗
--- Neo(vim) the less is more
---               @ezra/nvim
+-- Neo(vim) where less is more
+--               @ezra/nvim-config
+
 
 require "core"
 

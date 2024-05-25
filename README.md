@@ -1,8 +1,8 @@
-<p align="center">
-    my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim
-</p>
-
 <img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ">
+
+<p align="center">
+    <h2>my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim</h2>
+</p>
 
 > [!IMPORTANT] > **_This config require latest [Neovim][Neovim] build !_**
 

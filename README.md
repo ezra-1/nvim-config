@@ -4,7 +4,7 @@
     my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim</a> and Pwnvim
 </p>
 
-## Install 💧
+## Install
 ```sh
 git clone https://github.com/ezra-1/nvim-config.git ~/.config/nvim
 nvim --headless +"Lazy! sync" +qa
@@ -21,15 +21,15 @@ nvim --headless +"Lazy! sync" +qa
 
 - [Pyvim][Pyvim] for python support
 
-- [Rigrep][Rigrep] needed for telescope to work
+- [Ripgrep][Rigrep] needed for telescope to work
 
 
 ## optional
-[Neovide][Neovide] Neovide is optional be but will look a bit different from the preview above
+-[Neovide][Neovide] is optional be but will look a bit different from the preview above
 
 [Neovim]: https://github.com/neovim/neovim
 [NerdFonts]: https://www.nerdfonts.com/font-downloads
 [Neovide]: https://neovide.dev
 [Neoim]: https://github.com/neovim
 [Pyvim]: https://github.com/prompt-toolkit/pyvim
-[Rigrep]: https://github/BurntSushi/rigrep
+[Ripgrep]: https://github.com/BurntSushi/ripgrep

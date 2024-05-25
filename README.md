@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ">
+<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=">
 
 <p align="center">
     my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim</a> and Pwnvim
@@ -7,7 +7,7 @@
 ## Install
 ```sh
 git clone https://github.com/ezra-1/nvim-config.git ~/.config/nvim
-nvim --headless +"Lazy! sync" +qa
+nvim
  
 ```
 > [!IMPORTANT] 

@@ -1,3 +1,1 @@
-<div align="center">
-    <h1> My config </h1>
-</div>
+<h1 align="center"> My config </h1>

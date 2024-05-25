@@ -1,5 +1,5 @@
 <p align="center">
-    my config was inspired by <a href="https://github/lunarVim/launch.nvim">LaunchNvim
+    my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim
 </p>
 
 <img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=131FfoKLZR8NLhL9ZqqyCFvezuychfpeJ">

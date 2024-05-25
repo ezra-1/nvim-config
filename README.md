@@ -1,3 +1,4 @@
 <h1 align="center"> My config </h1>
 
-> [!IMPORTANT] > **_This config require latest [Neovim] [neovim] build !_**
+> [!IMPORTANT] 
+> ***This config require latest [Neovim] [neovim] build !***

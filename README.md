@@ -19,14 +19,16 @@ nvim --headless +"Lazy! sync" +qa
 
 - [Neovim 0.9.5+][Neovim] (not including nightly)
 
-- [Rigrep][Rigrep] needed for telescope to work
-
 - [Pyvim][Pyvim] for python support
 
-     #### optional
-     [Neovide][Neovide] Neovide is optional be but will look a bit different from the preview above
+- [Rigrep][Rigrep] needed for telescope to work
+
+
+ #### optional
+  [Neovide][Neovide] Neovide is optional be but will look a bit different from the preview above
 
 [Neovim]: https://github.com/neovim/neovim
 [NerdFonts]: https://www.nerdfonts.com/font-downloads
 [Neovide]: https://neovide.dev
 [Neoim]: https://github.com/neovim
+[Pyvim]: https://github.com/prompt-toolkit/pyvim

@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=">
+<img width="1440" alt="Screenshot" src="https://drive.google.com/uc?id=13s7MQMr3njnd0gy357KyPQBKA8uKXjLF"> https://drive.google.com/file/dview?usp=sharing
 
 <p align="center">
     my config was inspired by <a href="https://github.com/lunarVim/launch.nvim">LaunchNvim</a> and Pwnvim

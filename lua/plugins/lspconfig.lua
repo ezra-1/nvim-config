@@ -23,7 +23,7 @@ M.on_attach = function(client, bufnr)
   lsp_keymaps(bufnr)
 
   if client.supports_method "textDocument/inlayHint" then
-    vim.lsp.inlay_hint.enable(bufnr)
+    vim.lsp.inlay_hint.enable(true)
   end
 end
 
@@ -48,7 +48,7 @@ function M.config()
     },
     ["<leader>li"] = { "<cmd>LspInfo<cr>", "Info" },
     ["<leader>lj"] = { "<cmd>lua vim.diagnostic.goto_next()<cr>", "Next Diagnostic" },
-    ["<leader>lh"] = { "<cmd>lua require('plugins.lsp').toggle_inlay_hints()<cr>", "Hints" },
+    ["<leader>lh"] = { "<cmd>lua require('plugins.lspconfig').toggle_inlay_hints()<cr>", "Hints" },
     ["<leader>lk"] = { "<cmd>lua vim.diagnostic.goto_prev()<cr>", "Prev Diagnostic" },
     ["<leader>ll"] = { "<cmd>lua vim.lsp.codelens.run()<cr>", "CodeLens Action" },
     ["<leader>lq"] = { "<cmd>lua vim.diagnostic.setloclist()<cr>", "Quickfix" },

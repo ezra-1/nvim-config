@@ -8,17 +8,15 @@ local M = {
 function M.config()
   require("lualine").setup {
     options = {
-      icons_enabled = true,
-      theme = 'auto',
-      component_separators = { left = "", right = "" },
+      component_separators = { left = "", right = "" },
       section_separators = { left = "", right = "" },
       ignore_focus = { "NvimTree" },
     },
     sections = {
-      lualine_a = { "mode" },
+      lualine_a = {},
       lualine_b = { "branch" },
       lualine_c = { "diagnostics" },
-      lualine_x = { "filetype" },
+      lualine_x = { "copilot", "filetype" },
       lualine_y = { "progress" },
       lualine_z = {},
     },
